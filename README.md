@@ -11,10 +11,9 @@ focused products and run editorial research platforms.
 
 ## Research
 
-- **Best Data Annotation** — an independent editorial research platform covering the
-  AI data industry (data annotation, labeling, RLHF, and training-data providers).
-  *(Link goes here the day bestdataannotation.com is live — do not publish the URL
-  while the domain is parked.)*
+- **[Best Data Annotation](https://bestdataannotation.com)** — an independent
+  editorial research platform covering the AI data industry (data annotation,
+  labeling, RLHF, and training-data providers).
 
 ## Contact
 
