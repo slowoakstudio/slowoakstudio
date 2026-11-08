@@ -1,16 +1,21 @@
-## Hi there 👋
+# Slow Oak Studio
 
-<!--
-**slowoakstudio/slowoakstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Slow Oak Studio is an independent software and research studio. We build small,
+focused products and run editorial research platforms.
 
-Here are some ideas to get you started:
+## Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Melodara](https://melodara.app)** — a songwriting studio with an AI co-writer.
+  A section-based lyric editor with live rhymes, syllable counts, and voice memos.
+  Not an AI generator: your words, your rhythm. Free tier available.
+
+## Research
+
+- **Best Data Annotation** — an independent editorial research platform covering the
+  AI data industry (data annotation, labeling, RLHF, and training-data providers).
+  *(Link goes here the day bestdataannotation.com is live — do not publish the URL
+  while the domain is parked.)*
+
+## Contact
+
+- Melodara support: support@melodara.app
